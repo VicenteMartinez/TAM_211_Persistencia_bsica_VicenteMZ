@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TAM_2.1.1_Persistencia_básica_VicenteMZ</string>
+    <string-array name="zodiacando">
+        <item>Aries</item>
+        <item>Tauro</item>
+        <item>Geminis</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Escorpion</item>
+        <item>Sagitario</item>
+        <item>Capricornio</item>
+        <item>Acuario</item>
+        <item>Picis</item>
+    </string-array>
+</resources>
